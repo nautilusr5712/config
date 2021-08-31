@@ -2,8 +2,8 @@
     "g": "b86",
     "mf": "http://tai.luvwuse.xyz/B86/main/",
     "dv": {
-        "i": false,
-        "a": false
+        "i": true,
+        "a": true
     },
     "ct": ["VN"],
     "tl": [],
