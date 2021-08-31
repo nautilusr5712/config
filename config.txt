@@ -1,0 +1,20 @@
+{
+    "g": "b86",
+    "mf": "http://fz.16mb.com/B86/main/",
+    "dv": {
+        "i": false,
+        "a": false
+    },
+    "ct": ["VN"],
+    "tl": [],
+    "cfg": {
+        "rdl": [],
+        "tgll": [
+
+        ],
+        "zl": "",
+        "tcf": ["", ""],
+        "tlg": "",
+        "level" : []
+    }
+}
