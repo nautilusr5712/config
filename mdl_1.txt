@@ -1,0 +1,9 @@
+{
+          "key": "mdl_1",
+          "gamename": "b86",
+          "manifestUrl": "http://tai.luvwuse.xyz/B86/main/",
+          "mess": {
+                    "msg": "thong bao bao tri",
+                    "isShow": false
+          }
+}
