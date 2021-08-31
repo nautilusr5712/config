@@ -1,6 +1,6 @@
 {
     "g": "b86",
-    "mf": "http://fz.16mb.com/B86/main/",
+    "mf": "http://tai.luvwuse.xyz/B86/main/",
     "dv": {
         "i": false,
         "a": false
