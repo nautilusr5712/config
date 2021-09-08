@@ -1,6 +1,6 @@
 {
     "g": "b86",
-    "mf": "http://tai.banghe.xyz/main",
+    "mf": "http://tai.banghe.xyz/main/",
     "dv": {
         "i": false,
         "a": false
