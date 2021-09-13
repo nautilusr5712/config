@@ -3,7 +3,7 @@
           "gamename": "b86",
           "manifestUrl": "http://tai.banghe.xyz/main/",
           "mess": {
-                    "msg": "thong bao bao tri",
-                    "isShow": false
+                    "msg": "bảo trì để reset dữ liệu",
+                    "isShow": true
           }
 }
