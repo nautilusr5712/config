@@ -1,5 +1,5 @@
 {
-    "g": "B86_monsterzig",
+    "g": "No789_monsterzig",
     "mf": "http://tai.banghe.xyz/main/",
     "dv": {
         "i": false,
