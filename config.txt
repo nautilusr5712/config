@@ -5,7 +5,7 @@
         "i": false,
         "a": true
     },
-    "ct": ["VN","US"],
+    "ct": ["VN"],
     "tl": [],
     "cfg": {
         "rdl": [],
