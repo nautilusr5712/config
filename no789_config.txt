@@ -1,6 +1,6 @@
 {
     "g": "No789_monsterzig",
-    "mf": "https://tai.kakwaki.xyz/No789/main/",
+    "mf": "https://tai.kakwaki.xyz/no789/main/",
     "dv": {
         "i": false,
         "a": true
