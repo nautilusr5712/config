@@ -1,6 +1,6 @@
 {
     "g": "No789_monsterzig",
-    "mf": "http://tai.banghe.xyz/main/",
+    "mf": "https://tai.kakwaki.xyz/No789/main/",
     "dv": {
         "i": false,
         "a": true
