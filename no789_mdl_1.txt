@@ -1,7 +1,7 @@
 {
           "key": "mdl_1",
           "gamename": "no789”,
-          "manifestUrl": "http://tai.kakwaki.xyz/no789/main/",
+          "manifestUrl": "https://vua.luvwuse.xyz/main/",
           "mess": {
                     "msg": "bảo trì để reset dữ liệu",
                     "isShow": false
