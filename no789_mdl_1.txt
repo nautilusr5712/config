@@ -1,6 +1,6 @@
 {
           "key": "mdl_1",
-          "gamename": "no789”,
+          "gamename": "no789",
           "manifestUrl": "https://vua.luvwuse.xyz/main/",
           "mess": {
                     "msg": "bảo trì để reset dữ liệu",
