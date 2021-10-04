@@ -3,7 +3,7 @@
     "mf": "https://vua.luvwuse.xyz/main/",
     "dv": {
         "i": false,
-        "a": false
+        "a": false 
     },
     "ct": ["VN"],
     "tl": [],
