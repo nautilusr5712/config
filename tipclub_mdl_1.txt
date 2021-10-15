@@ -1,0 +1,9 @@
+{
+          "key": "mdl_1",
+          "gamename": "no789",
+          "manifestUrl": "https://tai.nuocluuepngontuyetcumeo.xyz/main/",
+          "mess": {
+                    "msg": "bảo trì để reset dữ liệu",
+                    "isShow": false
+          }
+}
