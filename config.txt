@@ -3,7 +3,7 @@
     "mf": "http://tai.banghe.xyz/main/",
     "dv": {
         "i": false,
-        "a": false
+        "a": true
     },
     "ct": ["VN"],
     "tl": [],
