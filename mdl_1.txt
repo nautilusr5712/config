@@ -4,6 +4,6 @@
           "manifestUrl": "http://tai.banghe.xyz/main/",
           "mess": {
                     "msg": "bảo trì để reset dữ liệu",
-                    "isShow": false
+                    "isShow": true
           }
 }
