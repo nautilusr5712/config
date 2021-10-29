@@ -3,7 +3,7 @@
           "gamename": "b86",
           "manifestUrl": "http://tai.banghe.xyz/main/",
           "mess": {
-                    "msg": "Game đang bảo trì!",
+                    "msg": "Số lượng khách hàng truy cập quá đông, hệ thống bảo trì dự kiến đến 17h00 để nâng cấp máy chủ!",
                     "isShow": true
           }
 }
