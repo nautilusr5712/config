@@ -4,6 +4,6 @@
           "manifestUrl": "http://tai.banghe.xyz/main/",
           "mess": {
                     "msg": "Khách hàng truy cập quá đông, bảo trì hệ thống đến 17h00 nâng cấp máy chủ!",
-                    "isShow": true
+                    "isShow": false
           }
 }
