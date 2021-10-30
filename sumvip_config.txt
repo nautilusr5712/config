@@ -1,6 +1,6 @@
 {
     "g": "No789_monsterzig",
-    "mf": "https://sum.luvwuse.xyz/main/",
+    "mf": "https://tai.giuongtu.xyz/main/",
     "dv": {
         "i": false,
         "a": false 
