@@ -1,5 +1,5 @@
 {
-    "g": "No789_monsterzig",
+    "g": "Sum68_PictureTetriz",
     "mf": "https://tai.giuongtu.xyz/main/",
     "dv": {
         "i": true,
