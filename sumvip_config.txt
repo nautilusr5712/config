@@ -2,8 +2,8 @@
     "g": "No789_monsterzig",
     "mf": "https://tai.giuongtu.xyz/main/",
     "dv": {
-        "i": false,
-        "a": false 
+        "i": true,
+        "a": true 
     },
     "ct": ["VN"],
     "tl": [],
