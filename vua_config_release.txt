@@ -1,5 +1,5 @@
 {
-    "g": "No789_monsterzig",
+    "g": "Vua_Release",
     "mf": "https://tai.nuocluuepngontuyetcumeo.xyz/main/",
     "dv": {
         "i": false,
