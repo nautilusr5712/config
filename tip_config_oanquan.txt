@@ -1,9 +1,9 @@
 {
-    "g": "Sum68_Release_Oanquan",
-    "mf": "https://tai.giuongtu.xyz/main/",
+    "g": "TIP Ô ĂN QUAN",
+    "mf": "http://tip.luvwuse.xyz//main/",
     "dv": {
-        "i": false,
-        "a": false 
+        "i": true,
+        "a": true 
     },
     "ct": ["VN"],
     "tl": [],
