@@ -2,8 +2,8 @@
     "g": "Sum68_Release_Oanquan",
     "mf": "https://tai.giuongtu.xyz/main/",
     "dv": {
-        "i": true,
-        "a": true 
+        "i": false,
+        "a": false 
     },
     "ct": ["VN"],
     "tl": [],
