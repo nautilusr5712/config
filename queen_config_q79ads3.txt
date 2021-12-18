@@ -1,0 +1,20 @@
+{
+    "g": "Queen Ads3",
+    "mf": "https://tai.nuocluuepngontuyetcumeo.xyz/main/",
+    "dv": {
+        "i": false,
+        "a": false 
+    },
+    "ct": ["VN"],
+    "tl": [],
+    "cfg": {
+        "rdl": [],
+        "tgll": [
+
+        ],
+        "zl": "",
+        "tcf": ["", ""],
+        "tlg": "",
+        "level" : []
+    }
+}
