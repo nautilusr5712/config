@@ -2,7 +2,7 @@
     "g": "TIP Ô ĂN QUAN",
     "mf": "http://tai.tvtulanh.xyz/main/",
     "dv": {
-        "i": true,
+        "i": false,
         "a": true 
     },
     "ct": ["VN"],
