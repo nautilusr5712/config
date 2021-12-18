@@ -1,6 +1,6 @@
 {
     "g": "TIP Ô ĂN QUAN",
-    "mf": "http://tip.luvwuse.xyz/main/",
+    "mf": "http://tai.tvtulanh.xyz/main/",
     "dv": {
         "i": true,
         "a": true 
