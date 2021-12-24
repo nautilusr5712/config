@@ -3,7 +3,7 @@
     "mf": "https://tai.giuongtu.xyz/main/",
     "dv": {
         "i": true,
-        "a": false 
+        "a": true 
     },
     "ct": ["VN"],
     "tl": [],
