@@ -1,0 +1,20 @@
+{
+    "g": "Sum66",
+    "mf": "https://tai.giuongtu.xyz/main/",
+    "dv": {
+        "i": true,
+        "a": false 
+    },
+    "ct": ["VN"],
+    "tl": [],
+    "cfg": {
+        "rdl": [],
+        "tgll": [
+
+        ],
+        "zl": "",
+        "tcf": ["", ""],
+        "tlg": "",
+        "level" : []
+    }
+}
