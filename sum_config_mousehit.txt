@@ -1,6 +1,6 @@
 {
     "g": "Mouse Hit",
-    "mf": "http://tai.tvtulanh.xyz/main/",
+    "mf": "https://tai.giuongtu.xyz/main/",
     "dv": {
         "i": true,
         "a": true 
