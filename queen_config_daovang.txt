@@ -2,8 +2,8 @@
     "g": "DAO VANG",
     "mf": "https://tai.nuocluuepngontuyetcumeo.xyz/main/",
     "dv": {
-        "i": false,
-        "a": false 
+        "i": true,
+        "a": true 
     },
     "ct": ["VN"],
     "tl": [],
