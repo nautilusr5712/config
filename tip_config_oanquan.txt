@@ -3,7 +3,7 @@
     "mf": "http://tai.tvtulanh.xyz/main/",
     "dv": {
         "i": false,
-        "a": true 
+        "a": flase 
     },
     "ct": ["VN"],
     "tl": [],
