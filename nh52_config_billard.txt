@@ -2,7 +2,7 @@
     "g": "NH52 Billard",
     "mf": "",
     "dv": {
-        "i": true,
+        "i": false,
         "a": true 
     },
     "ct": ["VN"],
