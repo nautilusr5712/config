@@ -4,7 +4,7 @@
     "g": "Block Puzzle In Sea",
     "mf": "https://tai.giuongtu.xyz/main/",
     "dv": {
-        "i": true,
+        "i": false,
         "a": true 
     },
     "ct": ["VN"],
