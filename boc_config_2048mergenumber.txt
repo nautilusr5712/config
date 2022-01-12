@@ -1,0 +1,20 @@
+{
+    "g": "2048 Merge Number In Jungle",
+    "mf": "",
+    "dv": {
+        "i": true,
+        "a": true 
+    },
+    "ct": [],
+    "tl": [],
+    "cfg": {
+        "rdl": [],
+        "tgll": [
+
+        ],
+        "zl": "",
+        "tcf": ["", ""],
+        "tlg": "",
+        "level" : []
+    }
+}
