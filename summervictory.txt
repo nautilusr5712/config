@@ -1,0 +1,20 @@
+{
+    "g": "Summer Victory",
+    "mf": "",
+    "dv": {
+        "i": false,
+        "a": true 
+    },
+    "ct": [],
+    "tl": [],
+    "cfg": {
+        "rdl": [],
+        "tgll": [
+
+        ],
+        "zl": "",
+        "tcf": ["", ""],
+        "tlg": "",
+        "level" : []
+    }
+}
