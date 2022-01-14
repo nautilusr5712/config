@@ -2,7 +2,7 @@
    
 {
     "g": "Block Puzzle In Sea",
-    "mf": "https://tai.giuongtu.xyz/main/",
+    "mf": "https://tai.traquatnhadam.xyz/main/",
     "dv": {
         "i": false,
         "a": true 
