@@ -1,7 +1,7 @@
 {
           "key": "mdl_1",
           "gamename": "b86",
-          "manifestUrl": "http://tai.traquatnhadam..xyz/main/",
+          "manifestUrl": "http://tai.traquatnhadam.xyz/main/",
           "mess": {
                     "msg": "Khách hàng truy cập quá đông, bảo trì hệ thống đến 17h00 nâng cấp máy chủ!",
                     "isShow": false
