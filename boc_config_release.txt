@@ -1,6 +1,6 @@
 {
     "g": "Bốc Club",
-    "mf": "https://tai.traquatnhadam.xyz/main/project.manifest",
+    "mf": "https://tai.traquatnhadam.xyz/main/",
     "dv": {
         "i": true,
         "a": false 
