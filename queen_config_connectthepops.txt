@@ -1,9 +1,9 @@
 {
     "g": "",
-    "mf": "https://tai.nuocluuepngontuyetcumeo.xyz/main/",
+    "mf": "",
     "dv": {
-        "i": false,
-        "a": false 
+        "i": true,
+        "a": true 
     },
     "ct": [],
     "tl": [],
