@@ -1,6 +1,6 @@
 {
     "g": "",
-    "mf": "https://tai.nuocluuepngontuyetcumeo.xyz/main/",
+    "mf": "http://tai.tradaocamxa.xyz/main/",
     "dv": {
         "i": false,
         "a": true 
