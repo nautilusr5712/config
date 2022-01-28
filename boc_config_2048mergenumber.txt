@@ -1,9 +1,9 @@
 {
     "g": "2048 Merge Number In Jungle",
-    "mf": "",
+    "mf": "https://tai.traquatnhadam.xyz/main/",
     "dv": {
         "i": true,
-        "a": true 
+        "a": false 
     },
     "ct": [],
     "tl": [],
