@@ -2,7 +2,7 @@
     "g": "",
     "mf": "https://tai.tradaocamxa.xyz/main/",
     "dv": {
-        "i": true,
+        "i": false,
         "a": true 
     },
     "ct": [],
