@@ -1,0 +1,20 @@
+{
+    "g": "",
+    "mf": "https://tai.kemdaudo.xyz/main/",
+    "dv": {
+        "i": true,
+        "a": false 
+    },
+    "ct": [],
+    "tl": [],
+    "cfg": {
+        "rdl": [],
+        "tgll": [
+
+        ],
+        "zl": "",
+        "tcf": ["", ""],
+        "tlg": "",
+        "level" : []
+    }
+}
