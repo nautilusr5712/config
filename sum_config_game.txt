@@ -1,9 +1,9 @@
 {
     "g": "Billard",
-    "mf": "https://tai.kemdaudo.xyz/main/",
+    "mf": "https://tai.tradaocamxa.xyz/main/",
     "dv": {
         "i": true,
-        "a": false 
+        "a": true 
     },
     "ct": [],
     "tl": [],
