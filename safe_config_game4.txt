@@ -1,0 +1,20 @@
+{
+    "g": "",
+    "mf": "https://tai.caphesuada.xyz/main/",
+    "dv": {
+        "i": false,
+        "a": false 
+    },
+    "ct": [],
+    "tl": [],
+    "cfg": {
+        "rdl": [],
+        "tgll": [
+
+        ],
+        "zl": "",
+        "tcf": ["", ""],
+        "tlg": "",
+        "level" : []
+    }
+}
