@@ -1,6 +1,6 @@
 {
     "g": "Fruit Dash Puzzle",
-    "mf": "https://tai.giuongtu.xyz/main/",
+    "mf": "https://tai.tstranchau.xyz/main/",
     "dv": {
         "i": false,
         "a": false 
