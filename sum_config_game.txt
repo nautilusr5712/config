@@ -1,6 +1,6 @@
 {
     "g": "Billard",
-    "mf": "https://tai.tradaocamxa.xyz/main/",
+    "mf": "https://tai.tstranchau.xyz/main/",
     "dv": {
         "i": true,
         "a": false 
