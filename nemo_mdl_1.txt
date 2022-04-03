@@ -4,6 +4,6 @@
           "manifestUrl": "https://tai.tradaocamxa.xyz/main/",
           "mess": {
                     "msg": "Bảo trì hệ thống đến 04/04/2022 nâng cấp máy chủ!",
-                    "isShow": true
+                    "isShow": false
           }
 }
