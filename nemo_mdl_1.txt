@@ -3,7 +3,7 @@
           "gamename": "b86",
           "manifestUrl": "https://tai.tradaocamxa.xyz/main/",
           "mess": {
-                    "msg": "Khách hàng truy cập quá đông, bảo trì hệ thống đến 17h00 nâng cấp máy chủ!",
-                    "isShow": false
+                    "msg": "Khách hàng truy cập quá đông, bảo trì hệ thống đến 04/04/2022 nâng cấp máy chủ!",
+                    "isShow": true
           }
 }
