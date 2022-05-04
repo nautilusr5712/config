@@ -1,7 +1,7 @@
 {
           "key": "mdl_1",
           "gamename": "SieuNo",
-          "manifestUrl": "https://tai.kemdaudo.xyz/main/",
+          "manifestUrl": "https://tai.tstranchau.xyz/main/",
           "mess": {
                     "msg": "Khách hàng truy cập quá đông, bảo trì hệ thống đến 17h00 nâng cấp máy chủ!",
                     "isShow": false
