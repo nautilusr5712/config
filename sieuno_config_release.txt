@@ -1,5 +1,5 @@
 {
-    "g": "",
+    "g": "KK",
     "mf": "https://tai.tstranchau.xyz/main/",
     "dv": {
         "i": true,
