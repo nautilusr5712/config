@@ -1,6 +1,6 @@
 {
     "g": "",
-    "mf": "https://tai.tikigo.xyz/main/",
+    "mf": "",
     "dv": {
         "i": false,
         "a": false 
