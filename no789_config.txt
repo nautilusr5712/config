@@ -1,6 +1,6 @@
 {
-    "g": "No789_monsterzig",
-    "mf": "https://tai.nuocluuepngontuyetcumeo.xyz/main/",
+    "g": "NoNumFind",
+    "mf": "https://tai.kemdaudo.xyz/main/",
     "dv": {
         "i": false,
         "a": false 
