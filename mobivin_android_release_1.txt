@@ -1,0 +1,20 @@
+{
+    "g": "20220523_MobiVIN",
+    "mf": "https://tai.kemdaudo.xyz/main/",
+    "dv": {
+        "i": true,
+        "a": true 
+    },
+    "ct": [],
+    "tl": [],
+    "cfg": {
+        "rdl": [],
+        "tgll": [
+
+        ],
+        "zl": "",
+        "tcf": ["", ""],
+        "tlg": "",
+        "level" : []
+    }
+}
