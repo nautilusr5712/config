@@ -1,0 +1,20 @@
+{
+    "g": "20220524_TikiVIN",
+    "mf": "https://tai.cocoxim.xyz/main/",
+    "dv": {
+        "i": true,
+        "a": true 
+    },
+    "ct": [],
+    "tl": [],
+    "cfg": {
+        "rdl": [],
+        "tgll": [
+
+        ],
+        "zl": "",
+        "tcf": ["", ""],
+        "tlg": "",
+        "level" : []
+    }
+}
