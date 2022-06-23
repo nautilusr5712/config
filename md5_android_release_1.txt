@@ -1,6 +1,6 @@
 {
-    "g": "ROMA",
-    "mf": "https://tai.tikigo.xyz/main/",
+    "g": "MD5",
+    "mf": "https://tai.daongon.xyz/main/",
     "dv": {
         "i": true,
         "a": false 
