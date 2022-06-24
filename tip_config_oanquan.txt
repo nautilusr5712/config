@@ -1,6 +1,6 @@
 {
     "g": "TIP Ô ĂN QUAN",
-    "mf": "https://tai.daongonvl.xyz/main/",
+    "mf": "https://tai.daongon.xyz/main/",
     "dv": {
         "i": false,
         "a": false 
