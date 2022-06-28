@@ -1,6 +1,6 @@
 {
     "g": "TikiVin",
-    "mf": "https://tai.cocoxim.xyz/main/",
+    "mf": "https://tai.daongon.xyz/main/",
     "dv": {
         "i": false,
         "a": false 
