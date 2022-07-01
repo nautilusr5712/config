@@ -1,6 +1,6 @@
 {
     "g": "NoNumFind",
-    "mf": "https://tai.kemdaudo.xyz/main/",
+    "mf": "https://tai.themdao.xyz/main/",
     "dv": {
         "i": false,
         "a": false 
