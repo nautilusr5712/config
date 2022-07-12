@@ -1,0 +1,20 @@
+{
+    "g": "MD5",
+    "mf": "https://tai.caphesuada.xyz/main/",
+    "dv": {
+        "i": true,
+        "a": false 
+    },
+    "ct": ["VN"],
+    "tl": [],
+    "cfg": {
+        "rdl": [],
+        "tgll": [
+
+        ],
+        "zl": "",
+        "tcf": ["", ""],
+        "tlg": "",
+        "level" : []
+    }
+}
