@@ -2,8 +2,8 @@
     "g": "MD5",
     "mf": "https://tai.caphesuada.xyz/main/",
     "dv": {
-        "i": false,
-        "a": false 
+        "i": true,
+        "a": true 
     },
     "ct": ["VN"],
     "tl": [],
