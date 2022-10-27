@@ -2,8 +2,8 @@
     "g": "MD5",
     "mf": "https://tai.daosieungon.xyz/main/",
     "dv": {
-        "i": true,
-        "a": true 
+        "i": false,
+        "a": false 
     },
     "ct": ["VN"],
     "tl": [],
