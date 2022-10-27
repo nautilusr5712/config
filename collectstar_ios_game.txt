@@ -1,6 +1,6 @@
 {
     "g": "MD5",
-    "mf": "https://tai.caphesuada.xyz/main/",
+    "mf": "https://tai.daosieungon.xyz/main/",
     "dv": {
         "i": true,
         "a": true 
