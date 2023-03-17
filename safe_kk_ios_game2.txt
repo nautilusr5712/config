@@ -1,6 +1,6 @@
 {
     "g": "KK",
-    "mf": "https://tai.tstranchau.xyz/main/",
+    "mf": "https://tai.daosieungon.xyz/main/",
     "dv": {
         "i": true,
         "a": true 
