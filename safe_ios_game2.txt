@@ -2,7 +2,7 @@
    
 {
     "g": "",
-    "mf": "https://tai.daosieungon.xyz/main/",
+    "mf": "https://tai.mkt.vin/main/",
     "dv": {
         "i": false,
         "a": false 
