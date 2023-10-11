@@ -1,6 +1,6 @@
 {
     "g": "TikiVin",
-    "mf": "https://tai.daongon.xyz/main/",
+    "mf": "https://tai.mkt.vin/main/",
     "dv": {
         "i": false,
         "a": false 
