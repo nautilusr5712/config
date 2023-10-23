@@ -1,6 +1,6 @@
 {
     "g": "TikiVin",
-    "mf": "https://tai.mkt.vin/main/",
+    "mf": "https://tai.b52j.vin/main/",
     "dv": {
         "i": false,
         "a": false 
